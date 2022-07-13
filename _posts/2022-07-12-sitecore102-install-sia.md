@@ -56,9 +56,11 @@ _Aguarde até que a instalação seja concluída, e clique em Next._
 
 15 - Confirme as informações referente ao seu banco de dados.
 
-16 - Por último, confirme na etapa de validação se todos os “checks” estão como verdes, se algo estiver incorreto, a instalação não poderá prosseguir.
+16 - Configure a pasta da instalação do Solr, na próxima etapa. Atenção para o caminho da pasta em sua unidade C:. No meu caso, a instalação esta na pasta _C:\Solr\solrsolr-8.8.2_.
 
-17 - Na última etapa, confirme e efetue a instalação.
+17 - Por último, confirme na etapa de validação se todos os “checks” estão como verdes, se algo estiver incorreto, a instalação não poderá prosseguir.
+
+18 - Na última etapa, confirme e efetue a instalação.
 
 {: .box-note}
 **Note:** (Opcional) Você também pode alterar o prefixo da instância da sua aplicação no arquivo setup.exe.config. Basta alterar os parâmetros: SitecoreSiteName, XConnectSiteName e IdentityServerCertificateName.
@@ -66,5 +68,9 @@ _Aguarde até que a instalação seja concluída, e clique em Next._
 Com isso, chegamos ao final da instalação do Sitecore XP! Este processo pelo assistente é bastante fácil, mas ainda há as possibilidades de instalação via SIF e também via DOCKER, mas estes tutoriais ficam para o futuro. :)
 
 Quase todo conteúdo do Sitecore tanto para uso quanto para aprender é pago, então se você gostou deste tutorial não deixe de compartilhar, e talvez dar uma estrelinha nesse repositório ? 
+
+[Tutorial com imagens](https://fcarvalhodev.medium.com/como-instalar-o-sitecore-xp-sia-f03b036ff019)
+
+[Repositório deste blog](https://github.com/fcarvalhodev/fcarvalhodev.github.io)  
 
 Muito obrigado, até a próxima!
