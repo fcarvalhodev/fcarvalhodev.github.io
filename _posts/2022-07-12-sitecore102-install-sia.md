@@ -56,7 +56,7 @@ _Aguarde até que a instalação seja concluída, e clique em Next._
 
 15 - Confirme as informações referente ao seu banco de dados.
 
-16 - Configure a pasta da instalação do Solr, na próxima etapa. Atenção para o caminho da pasta em sua unidade C:. No meu caso, a instalação esta na pasta _C:\Solr\solrsolr-8.8.2_.
+16 - Configure a pasta da instalação do Solr, na próxima etapa. Atenção para o caminho da pasta em sua unidade C:. No meu caso, a instalação esta na pasta **_C:\Solr\solrsolr-8.8.2_**.
 
 17 - Por último, confirme na etapa de validação se todos os “checks” estão como verdes, se algo estiver incorreto, a instalação não poderá prosseguir.
 
