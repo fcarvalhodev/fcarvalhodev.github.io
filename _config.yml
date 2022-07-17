@@ -14,7 +14,7 @@ author: Fábio De Paula Carvalho
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre Mim: "https://www.linkedin.com/in/fcarvalhodev/"
+  Sobre Mim: "https://fcarvalhodev.github.io/2022-07-17-about-me/"
   # Resources:
   #   - Beautiful Jekyll: "#"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -76,7 +76,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
