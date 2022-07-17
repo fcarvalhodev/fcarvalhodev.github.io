@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como desinstalar o Sitecore
-subtitle: Aprenda a remover o Sitecore complemtamente de seu computador.
+subtitle: Aprenda a remover o Sitecore de seu computador.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/pngwing.com.png
 share-img: /assets/img/path.jpg
@@ -53,7 +53,7 @@ para parar todas as instâncias do IIS.
 
 Quase todo conteúdo do Sitecore tanto para uso quanto para aprender é pago, então se você gostou deste tutorial não deixe de compartilhar, e talvez dar uma estrelinha nesse repositório ?
 
-[Tutorial com imagens](https://fcarvalhodev.medium.com/como-instalar-o-sitecore-xp-sia-f03b036ff019)
+[Tutorial com imagens](https://fcarvalhodev.medium.com/como-desinstalar-o-sitecore-e762ed2a9d9e)
 
 [Repositório deste blog](https://github.com/fcarvalhodev/fcarvalhodev.github.io)  
 
